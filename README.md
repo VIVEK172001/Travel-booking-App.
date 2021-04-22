@@ -4,10 +4,10 @@
 It is an android app for booking for airplane as well as for train.
 
 ## *Contributors*
-- [Ruchit Kalathiya (19IT051)](https://github.com/ruchitkalathiya)
-
-
 - [Vivek mandani (19IT062)](https://github.com/VIVEK172001)
+
+
+- [Ruchit Kalathiya (19IT051)](https://github.com/ruchitkalathiya)
 
 
 ## *Introduction*

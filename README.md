@@ -65,6 +65,4 @@ This app is very useful and very easy to use. User can book ticket from anywhere
 | _[https://firebase.google.com/docs/auth](https://firebase.google.com/docs/auth)_ | [https://firebase.google.com/docs/database](https://firebase.google.com/docs/database) |
 
 ## *Important URLs*
-[https://github.com/ruchitkalathiya/Travel-booking-App.](https://github.com/ruchitkalathiya/Travel-booking-App.) [GitHub]
 
-[https://travelbookingapp.blogspot.com/2020/10/travel-booking-app.html](https://travelbookingapp.blogspot.com/2020/10/travel-booking-app.html) [Blog]
